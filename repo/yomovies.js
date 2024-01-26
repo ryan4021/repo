@@ -7,7 +7,7 @@
 // @package      yomovies
 // @type         bangumi
 // @icon         https://yomovies.media/wp-content/uploads/2023/12/120.jpg
-// @webSite      https://yomovies.media
+// @webSite      https://yomovies.fit
 // @nsfw         false
 // ==/MiruExtension==
 
